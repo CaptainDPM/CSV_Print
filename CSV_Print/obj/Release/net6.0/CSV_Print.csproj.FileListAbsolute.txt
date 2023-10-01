@@ -1,0 +1,15 @@
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\bin\Release\net6.0\CSV_Print.exe
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\bin\Release\net6.0\CSV_Print.deps.json
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\bin\Release\net6.0\CSV_Print.runtimeconfig.json
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\bin\Release\net6.0\CSV_Print.dll
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\bin\Release\net6.0\CSV_Print.pdb
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.csproj.AssemblyReference.cache
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.AssemblyInfoInputs.cache
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.AssemblyInfo.cs
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.dll
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\refint\CSV_Print.dll
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.pdb
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\CSV_Print.genruntimeconfig.cache
+C:\Users\marqu\source\repos\CSV_Print\CSV_Print\obj\Release\net6.0\ref\CSV_Print.dll
